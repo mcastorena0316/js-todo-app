@@ -45,7 +45,7 @@ Link for project specifications: [Odin-Project](https://www.theodinproject.com/c
 
   Melissa Castorena 
 - Github: [@mcastorena0316](https://github.com/mcastorena0316)
-- Linkedin: [Melissa Castorena](https://www.linkedin.com/in/melissa-castorena
+- Linkedin: [Melissa Castorena](https://www.linkedin.com/in/melissa-castorena)
 
 <!-- ABOUT THE PROJECT-->
 ## Show your support
